@@ -1,0 +1,199 @@
+body{
+    padding: 0;
+    margin: auto;
+    position: absolute;
+    background-color: #1d4559;
+}
+.fon-title-qua-1{
+    position: absolute;
+    width: 1112px;
+    height: 770px;
+    background-color: #1d4559;
+    margin-top: 66px;
+    margin-left: 200px;
+    border-radius: 20px;
+}
+.fon-title-qua-2{
+    position: absolute;
+    margin-left: 405px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+.obvodka{
+    position: absolute;
+    width: 1315px;
+    height: 770px;
+    border-radius: 20px;
+    position: relative;
+    background-color: transparent !important;
+    border-color: black;
+    border: 2px solid #28e5e5;
+    margin-left: 200px;
+    top: 66px;
+    outline: none;
+    box-shadow: 0 0 120px #51CBEE;
+}
+.gradient{
+    position: absolute;
+    position: relative;
+    border-radius: 20px;
+    margin-top: -723px;
+    margin-left: 405px;
+}
+.container{
+    margin-left: 90px;
+    margin-top: 25px;
+}
+.text-about-reg{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 51.29px;
+    color: white;
+    text-transform: uppercase;
+    position: absolute;
+    margin-top: -720px;
+    margin-left: 370px;
+}
+.icon-login{
+    position: absolute;
+    margin-top: -950px;
+    margin-left: 50px;
+}
+.icon-password{
+    position: absolute;
+    margin-top: -950px;
+    margin-left: 50px;
+}
+.line-login{
+    position: absolute;
+    width: 500px;
+    height: 3px;
+    color: #28e5e5;
+    background-color: #28e5e5;
+    margin-top: -480px;
+    margin-left: 305px;
+}
+.line-password{
+    position: absolute;
+    width: 500px;
+    height: 3px;
+    color: #28e5e5;
+    background-color: #28e5e5;
+    margin-top: 130px;
+    margin-left: 0px;
+}
+input[type="text"] {
+    background: transparent;
+    position: absolute;
+    margin-top: -520px;
+    width: 445px;
+    height: 20px;
+    margin-left: 360px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 25px;
+    border: none !important;
+    color: white;
+}
+input[type="password"] {
+    background: transparent;
+    position: absolute;
+    margin-top: -520px;
+    width: 445px;
+    height: 20px;
+    margin-left: 360px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 25px;
+    border: none !important;
+    color: white;
+}
+input[type="text"]{
+    background: transparent;
+    border: none;
+}
+input:focus,textarea:focus{
+    outline: none;
+  }
+
+.input-password{
+    background: transparent;
+    position: absolute;
+    margin-top: 130px;
+    width: 445px;
+    height: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+}
+#button-sign-up{
+    position: absolute;
+    background-color: #28b9c0;
+    width: 445px;
+    height: 64px;
+    border-radius: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+    color: white;
+    font-weight: 700;
+    margin-top: -200px;
+    margin-left: 300px;
+}
+.welcome{
+    position: absolute;
+    font-size: 40px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    margin-top: -680px;
+    margin-left: 1310px; 
+}
+.parag{
+    position: absolute;
+    font-size: 25px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: -560px;
+    margin-left: 1335px;
+}
+.parag-two{
+    position: absolute;
+    font-size: 25px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: -525px;
+    margin-left: 1135px;
+}
+.parag-free{
+    position: absolute;
+    font-size: 25px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: -490px;
+    margin-left: 1340px;
+}
+.txt-login{
+    position: absolute;
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    color: white;
+    margin-top: -100px;
+    margin-left: 300px;
+}
+#button-login{
+    position: absolute;
+    margin-top: -88px;
+    margin-left: 710px;
+    width: 100px;
+    height: 40px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: white;
+    background-color: #28b9c0;
+    border-radius: 15px;
+}
